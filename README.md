@@ -1,2 +1,5 @@
-# django-deployment-configs
-Django Deployment Configs
+# django deployment configfiles
+
+Django Deployment Configuration files.
+
+For deployment using Gunicorn + Nginx + Supervisor
